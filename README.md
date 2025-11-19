@@ -1,1 +1,1 @@
-# JourneyMate
+# AI Powered Travel Itinerary Planner 
